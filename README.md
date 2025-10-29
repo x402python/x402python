@@ -1,4 +1,4 @@
-# x402 Typescript Solana Implementation
+# x402 Python Solana Implementation
 
 A standalone Python implementation of the [x402 payment protocol](https://github.com/coinbase/x402) for Solana (SVM) networks.
 
